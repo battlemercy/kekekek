@@ -11,7 +11,7 @@ namespace kekekekek
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            Console.WriteLine("Test for commit");
+            Console.WriteLine("Test for commits");
         }
     }
 }
